@@ -1,0 +1,14 @@
+a{
+  font-size: 25px;
+  padding-left: 100px;
+}
+
+h1{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.justify-text{
+  text-align: justify;
+}
