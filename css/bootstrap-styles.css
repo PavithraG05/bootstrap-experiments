@@ -1,6 +1,6 @@
 a{
   font-size: 25px;
-  padding-left: 100px;
+  padding-left: 160px;
 }
 
 h1{
@@ -9,6 +9,7 @@ h1{
   color: white;
 }
 
-.justify-text{
-  text-align: justify;
+p{
+  font-size: 18px;
 }
+
