@@ -4,12 +4,19 @@ body {
   background-repeat: repeat;
 }
 
-
 p{
   font-size: 18px;
 }
 
-img{
+.container-1{
+  padding:70px 30px 30px 30px;
+}
+
+.container-2, .card-2{
+  padding:20px;
+}
+
+.login-img{
   display:block;
   margin:0 auto;
 }
