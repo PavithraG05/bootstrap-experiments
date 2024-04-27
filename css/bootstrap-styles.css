@@ -4,6 +4,12 @@ body {
   background-repeat: repeat;
 }
 
+.heading{
+  text-align: center;
+  background-color: black;
+  color:white;
+}
+
 p{
   font-size: 18px;
 }
@@ -30,4 +36,38 @@ p{
 }
 .btn{
   width:150px;
+}
+
+.carousel-item {
+  height: 25rem;
+  max-width: 100vw;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.welcome-carousel-image1{
+  box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+  background-image:url('../images/1573729587_shutterstock_704449474.jpg');
+}
+
+.welcome-carousel-image2{
+  box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+  background-image:url('../images/bangkok-tourist-attractions-after-covid-19-image-26.jpg');
+}
+
+.welcome-carousel-image3{
+  box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+  background-image:url('../images/c5.jpeg');
+}
+
+footer{
+  background-color: gainsboro;
+  color: gray;
+  text-align: center;
+  position: fixed;
+  width:100%;
+  left: 0;
+  bottom: 0;
+
 }
